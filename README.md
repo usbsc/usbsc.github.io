@@ -8,6 +8,19 @@ Hi! I'm a freshman at Santa Clara High School in Santa Clara, California. This s
 
 ## 📚 Available Projects
 
+### 🏅 [CCSHub](https://github.com/usbsc/CCSHub)
+My very first repository! A CCS Hub for CCS Sports, serving the CCS portion of the CIF (California Interscholastic Federation).
+
+**Purpose:**
+- CCS sports information and resources
+- California Interscholastic Federation hub
+- Sports scheduling and community focus
+
+**Links:**
+- 📝 [GitHub Repository](https://github.com/usbsc/CCSHub)
+
+---
+
 ### 🎵 [Frequency Tool](https://usbsc.github.io/frequency-tool/)
 A real-time audio frequency analyzer built with Web Audio API and HTML5 Canvas.
 
